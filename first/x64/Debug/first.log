@@ -1,0 +1,5 @@
+﻿  first.cpp
+C:\Users\EsemplareSimone\source\repos\first\first\first.cpp(22,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\EsemplareSimone\source\repos\first\first\first.cpp(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\EsemplareSimone\source\repos\first\first\first.cpp(34,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  first.vcxproj -> C:\Users\EsemplareSimone\source\repos\first\x64\Debug\first.exe
